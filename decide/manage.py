@@ -2,6 +2,7 @@
 import os
 import sys
 
+# Solucionado error de sintaxis: Ejercicio A.05
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "decide.settings")
     try:
